@@ -1,5 +1,0 @@
-# Haiku Documentation
-##Intro To Programming
-###Malcolm Longaker
-####02/11/2025
-For homework assignment one I found a haiku online about lighting a candle and I made the CLI Terminal read the haiku, and then recorded it and made it into a aiff file. I did this by using the say command in terminal to make a computerized voice recite the haiku. I screen recorded the CLI with computer audio and then imported the video into ableton. I exported audio only as an aiff file, and then added it to the haiku subfolder that I had on Github and pushed the new version of the folder that included the audio file onto Github using the Github Desktop app. The one problem I faced was figuring out how to cleanly record the audio that the CLI was saying. I overcame this because I realized I had an audio driver installed called blackhole, which I had previously set up to record whatever audio is coming out of my mac speakers when I screen record
