@@ -1,0 +1,5 @@
+# JavaScript Reading
+##Intro To Programming
+###Malcolm Longaker
+####02/19/2025
+This Week's Homework was to read the first three chapters in Eloquent Javascript by Marjin Haverbeke and report on three things we already knew from each chapter and three things we did not. For chapter 1, I already knew that the modulo operation will output a remainder of a division because of the modulo object in Max. I did not know that string is used to represent text in JavaScript, and that it can be enclosed in multiple different types of quotes. For chapter 2, I did infer from chapter 1 that operations were probably pretty granular and needed to be part of something larger to be fully useful. I did not how that happened with the way statements allowing side effects to occur. For chapter 3, I already knew that functions wrapped a piece of program in a value. I did not know that a binding can exist within or outside of a function
