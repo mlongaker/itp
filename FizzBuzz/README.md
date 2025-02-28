@@ -36,7 +36,7 @@ When I initially tried the *for* loop, I still kept the starting value at 0 and 
 
 
 After this worked I tried to use if, else if, and else statements to make certain integers change to words. I copied the formatting from the github codealong:
-for (let integerlist = 1; integerlist <= 100; integerlist++){
+`for (let integerlist = 1; integerlist <= 100; integerlist++){
   if (integerlist % 5 === 0){
     console.log("Buzz")
     } else if (integerlist % 3 === 0){
@@ -46,7 +46,7 @@ for (let integerlist = 1; integerlist <= 100; integerlist++){
     } else { 
     console.log (integerlist)
         }
-  }
+  }`
 This made the numbers divisible by 5 change to “Buzz” in the list and numbers divisible by 3 change to “Fizz,” but the last else if statement did not make the numbers divisible by both change to “FizzBuzz.” I guessed that the “FizzBuzz” condition had to be first since if it wasn’t all of those integers would have already been told to change to “Fizz” or “Buzz.” I reordered my lines of code and ran this code:
 `for (let integerlist = 1; integerlist <= 100; integerlist++){
   if (integerlist % 5 === 0 && integerlist % 3 === 0){
