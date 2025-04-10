@@ -1,22 +1,22 @@
-#Final Project Proposal
-##Malcolm Longaker
-###Intro To Programming
-####04/09/2025
-#####What will (likely) be the title of your project?
+# Final Project Proposal
+## Malcolm Longaker
+### Intro To Programming
+#### 04/09/2025
+##### What will (likely) be the title of your project?
 The title of my project will likely be "Malcolm Longaker Music". 
-#####In just a sentence or two, summarize your project. (E.g., "My project a web-based synthesizer.")
+##### In just a sentence or two, summarize your project. (E.g., "My project a web-based synthesizer.")
 My project will be an HTML portfolio website with a biography, hihglighting my drumming abilities with some video examples of my playing, and highlighting my production skill with some examples of my electronic music.
-#####List at least 3 resources you know you will use in developing your project
+##### List at least 3 resources you know you will use in developing your project
 Here are some examples of portfolio websites that I will reference. <https://www.maesunmusic.com/#home-maesun-section> , <https://zyckthefreak.com/> , <https://russsternglass.com/> .
-#####In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+##### In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 I want my website to have multiple different headers at the top that you can click on that take the user to different sections of the site, such as bio, videos, upcoming shows, and music. I either want one long page with all of the sections, and for the site to just scroll down to a section when you click on the header for it, or for there to be multiple web pages for each different header. I think the homepage could be a my name with a brief description of the services I offer and a photo. It appears that the easiest way for me to achieve what I want in my site would be to use GitHub pages, but I am also open to exploring other options.
-#####Will any work as part of this project overlap with any work you are doing outside of this class? For another class? Who is the professor in this class?
+##### Will any work as part of this project overlap with any work you are doing outside of this class? For another class? Who is the professor in this class?
 The work I am doing will not overlap with any other classes.
-#####In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+##### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 No matter what, I will have an HTML site with a bio that highlights my music making abilities and drumming abilities.
-#####In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+##### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 A better outcome for my project would be to have an HTML site with a bio that has multiple different pages, including a bio, homepage, a list of upcoming shows, a page with links to examples of my playing and examples of my music, as well as social media links.
-#####In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+##### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 The best outcome from this project would be to have a full portfolio website with a custom domain titled "Malcolm Longaker Music", with a bio that has multiple different pages, including a bio, homepage, a list of upcoming shows, a page with clickable thumbnails of me drumming, and a page with clickable audio files of my music. It would also include contact informaation and links to my socials, mainly instagram, soundcloud, and youtube.
-#####In a paragraph or more, outline your next steps WITH A SPECIFIC CALENDAR. What new skills will you need to acquire? What topics will you need to research?
+##### In a paragraph or more, outline your next steps WITH A SPECIFIC CALENDAR. What new skills will you need to acquire? What topics will you need to research?
 In the coming week, I will look over the HTML cheat sheet as well as all of the other HTML resources posted to canvas. I will also experiment with trying to code out a few things just to get the feel for it. I am going to read through the Github Pages instructions too so that I can plan ahead. Then the next week I am going to focus on learning and creating the layout of my website. I want to figure out how to make different fonts, how to determine where text gets placed, how to change the color of things, and how to add clickable words for the different sections of my site. I might also download some example html sites just so I can look at the code and see how it works. Then the last two weeks I am going to focus on assembling a list of videos and audio files to use on my site, and figure out how to link them on my site with play and pause buttons and all those features. Lastly I am also going to add clickable images for instagram, youtube and soundlcoud, that direct the user to my links for each of those respective sites.
