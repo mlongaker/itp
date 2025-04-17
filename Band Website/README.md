@@ -3,7 +3,8 @@
 ### Intro to Programming
 #### 04/17/2025
 For this assignment we took an html file for a webstie and changed the code to match a description of a band that we made up, and then pushed it to a repository for Nick's github website [Click here for our website](https://nickreinert.github.io/). This was the final code for our project: 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
   <title>Band Website</title>
@@ -38,9 +39,11 @@ For this assignment we took an html file for a webstie and changed the code to m
     </p>
 
 </body>
-</html>``` 
+</html>
+``` 
 Here is the CSS file referenced: 
-```body {
+```
+body {
   background-image: url("free-nature-images.jpg");
 background-size: cover;
 background-repeat: no-repeat;
@@ -73,6 +76,7 @@ img {
 header
 h1 {
   font-family: "Papyrus";
-}```
+}
+```
 
 We first added our own text within the headers, and also added new description paragraphs for the bodies, including a band philosiphy, and 4 paragraphs, 1 for each band memmber's description, and used the `<i>` convention to put certain words in italics. The main trouble that we ran into was figuring out how to add image files into our index.html file. We realized that the issue was we were putting a link to the image that appeared when we dragged it into a browser, and not just the image title.png. When we tyoed that in and also had the image in the correct folder, it worked perfeclty for both of the two images we had. We also used the `"<audio"` and `controls>` conventions to add an mp3 file of a soundscape that is supposed to be our music with pause, play, and slider controls. My self assesment of my contributions to the group was that I had good suggestions for troubleshooting the image, such as figuring out that it shouldn't be an online image link and that jpeg, png, and jpg images would all work. I also figured out that we could go into private browsing mode to try to load a new version of our website without cache. Nick contributed greatly to the group because he wrote in most of the code in HTML and CSS and allowed us to upload the band website on his github website. Sarah contributed greatly because she remembered a lot of the correct requirements of the assignment and knew a lot of the conventions for HTML that the rest of us didn't. Annie contributed greatly because she edited the photo that we used as out band photo., and had the most coding experience.
