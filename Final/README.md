@@ -29,10 +29,10 @@ Here is the CSS:
 
 
 Here is the HTML:
-`<div class="image-row">
+```<div class="image-row">
 	<img src="Malcolm Drumming.png" class="left-img">
 	<img src="Malcolm Drumming 2.JPG" class="right-img">
-</div>`
+</div>```
 
 I also used the HTML Cheat Sheet as well as a few more small interactions with ChatGpt to type out another image link as well as doing some nav and tab titling for my website, all linked in my final code. Here are my other GPT interactions for my home page:
 ![Nav Explanation](Nav%20Explanation.png)
